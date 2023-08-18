@@ -3,3 +3,6 @@
 ![cover](architecture.jpg)
 
 <a href="https://drive.google.com/drive/folders/1Nu3oFAGeGaQROS9Xt8DxDkwu1ffvd2bB?usp=sharing/" target="_blank">Dataset</a>
+
+## Publication Link
+https://ieeexplore.ieee.org/document/10032439
