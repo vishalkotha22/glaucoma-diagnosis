@@ -6,3 +6,5 @@
 
 ## Publication Link
 https://ieeexplore.ieee.org/document/10032439
+
+Contributors: Sauman Das, Audhav Durai, Aditya Vasantharao, Arnav Jain, Sameer Gabbita, Vishal Kotha
